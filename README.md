@@ -1,9 +1,9 @@
-# [OpenVINO™ Toolkit](https://01.org/openvinotoolkit) - Deep Learning Deployment Toolkit repository
+﻿# [OpenVINO™ Toolkit](https://01.org/openvinotoolkit) - Deep Learning Deployment Toolkit repository
 [![Stable release](https://img.shields.io/badge/version-2020.4-green.svg)](https://github.com/openvinotoolkit/openvino/releases/tag/2020.4.0)
 [![Apache License Version 2.0](https://img.shields.io/badge/license-Apache_2.0-green.svg)](LICENSE)
 
 This toolkit allows developers to deploy pre-trained deep learning models
-through a high-level C++ Inference Engine API integrated with application logic.
+through a high-level C++ Inference Engine API integrated with application logic..
 
 This open source version includes two components: namely [Model Optimizer] and
 [Inference Engine], as well as CPU, GPU and heterogeneous plugins to accelerate
